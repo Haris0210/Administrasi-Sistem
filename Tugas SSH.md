@@ -1,7 +1,7 @@
 ## NAMA KELOMPOK
 ## MUHAMMAD HARIS
-## 
-## 
+## NURDIAN
+## SAMIAJI SANTOSO
 
 # Cara Konfigurasi SSH Server dengan Debian
 1. Pertama tahap ini silahkan login sebagai user bisa klik su  
