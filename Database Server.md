@@ -1,11 +1,12 @@
 # DATABASE SERVER
 
 1. - Login ke debian dengan menggunakan user root dengan cara menjalankan command su atau sudo -i setelah itu jalankan command **apt-get install mysql-server** untuk menginstall database pada server kita, jika ada keterangan "Package 'mysql-server' has no installation candidate" coba jalankan command **apt-get install default-mysql-server**.
-![apt-get install default-mysql-server](https://user-images.githubusercontent.com/112459285/201567283-c1692588-e263-4f7f-9c72-179e020a19f9.png)
+![1](https://user-images.githubusercontent.com/112592881/202996458-22e4dcf0-e538-42c5-bd80-7ee7fddf3084.PNG)
 
 
 2. - Jika sudah selanjutnya adalah menginstall phpmyadmin, aplikasi ini digunakan untuk memudahkan user yang tidak terbiasa dengan command line karena aplikasi ini menggunakan GUI. Untuk menginstallnya silahkan jalankan command **apt-get install phpmyadmin**. Pilih apache2 sebagai web server yang digunakan.
-![apt-get install phpmyadmin](https://user-images.githubusercontent.com/112459285/201567301-8a131830-3b7d-473e-bf29-0e148946ad76.png)
+![2](https://user-images.githubusercontent.com/112592881/202996500-fe26b364-de68-4d7d-be11-d7d9d9e62180.PNG)
+
 
 ![apt-get install phpmyadmin (2)](https://user-images.githubusercontent.com/112459285/201567337-5681b2ad-9d46-4ece-95a8-c4567891a689.png)
 
