@@ -1,7 +1,7 @@
 <h1> NAMA KELOMPOK 
 <h1> MUHAMMAD HARIS
-<h1> 
-<h1> 
+<h1> NURDIAN
+<h1> SAMIAJI SANTOSO
 
 <h2> Client Server pada Linux Virtual Box dengan Windows
 
