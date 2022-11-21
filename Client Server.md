@@ -8,7 +8,7 @@
 <h3> Berikut Langkah Langkah nya
 
 <h3> 1. Pertama kalian pastikan sudah menginstal debian dilaptop kalian
-![Capture1](https://user-images.githubusercontent.com/112592881/202980538-279acaf1-33a9-4951-90d9-bee2a16f5905.PNG)
+<img width="959" src="https://user-images.githubusercontent.com/112592881/202980538-279acaf1-33a9-4951-90d9-bee2a16f5905.PNG">
 
   
 <h3> 2.login ke debian seperti gambar
