@@ -1,15 +1,15 @@
 <h1> NAMA KELOMPOK 
-<h1> M.FADIL HIDAYAT
-<h1> M.DINAR SALIHIN
-<h1> HASSANUDIN 
+<h1> MUHAMMAD HARIS
+<h1> 
+<h1> 
 
 <h2> Client Server pada Linux Virtual Box dengan Windows
-![Capture1](https://user-images.githubusercontent.com/112592881/202979876-585738f3-cb3b-4942-8ea9-36e0df385c26.PNG)
 
 <h3> Berikut Langkah Langkah nya
 
 <h3> 1. Pertama kalian pastikan sudah menginstal debian dilaptop kalian
- <img width="959" alt="A" src="https://user-images.githubusercontent.com/74998124/191896594-48d3bd75-d7f4-48e4-83dc-d5ff733bfae2.png">
+![Capture1](https://user-images.githubusercontent.com/112592881/202980538-279acaf1-33a9-4951-90d9-bee2a16f5905.PNG)
+
   
 <h3> 2.login ke debian seperti gambar
  <img width="959" alt="2 login ke debian seperti gambar" src="https://user-images.githubusercontent.com/74998124/191897070-d7abbc15-9cb3-4f1f-b36a-1f2e2103d59f.png">
